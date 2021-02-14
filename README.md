@@ -35,13 +35,26 @@ https://www.youtube.com/watch?v=BDOzg4lXcSg
 
 #Bootstrap
 
+https://www.youtube.com/watch?v=cU6Vu0vzpLc
+
 https://www.w3schools.com/bootstrap4/default.asp
 
-#MaterialUI
+
 
 #Typescript
 
+https://www.youtube.com/watch?v=WBPrJSw7yQA
+
+https://www.youtube.com/watch?v=NjN00cM18Z4
+
 #Angular 
+
+https://www.youtube.com/watch?v=k5E2AVpwsko
+
+
+#MaterialUI
+
+https://www.youtube.com/watch?v=wPT3K3w6JtU
 
 #Node JS
 https://www.w3schools.com/nodejs/default.asp
@@ -49,8 +62,11 @@ https://www.w3schools.com/js/js_ajax_intro.asp
 
 #Git
 
+https://www.youtube.com/watch?v=SWYqp7iY_Tc&t=87s
+
 #Git DeskTop
 
+https://www.youtube.com/watch?v=77W2JSL7-r8
 
 
 
