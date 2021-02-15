@@ -16,6 +16,9 @@ https://www.youtube.com/playlist?list=PLrwNNiB6YOA0KmfliJoSuZzEN6tjSdEXc
 # Rabbit MQ series
 https://www.youtube.com/playlist?list=PLrwNNiB6YOA3Z3JfOUMKE6PmnpmVAJgTK
 
+# Service Discovery
+
+# Circuit breaker 
 
 # nginx & as #api gateway
 https://www.youtube.com/watch?v=WC2-hNNBWII
