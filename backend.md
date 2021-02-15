@@ -17,11 +17,11 @@ https://www.youtube.com/playlist?list=PLrwNNiB6YOA0KmfliJoSuZzEN6tjSdEXc
 https://www.youtube.com/playlist?list=PLrwNNiB6YOA3Z3JfOUMKE6PmnpmVAJgTK
 
 
-#nginx & as #api gateway
+# nginx & as #api gateway
 https://www.youtube.com/watch?v=WC2-hNNBWII
 
 
-#mongo Database
+# mongo Database
 
 DataModeling
 https://university.mongodb.com/courses/M320/about
