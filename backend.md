@@ -20,7 +20,9 @@ https://www.youtube.com/playlist?list=PLrwNNiB6YOA3Z3JfOUMKE6PmnpmVAJgTK
 # nginx & as #api gateway
 https://www.youtube.com/watch?v=WC2-hNNBWII
 
-#worth watching how to give a demo we are going to end up with service mesh architecture even though we are planning linear architecture.
+#worth watching;
+#how to give a demo;
+#we are going to end up with service mesh architecture even though we are planning linear architecture.
 https://www.youtube.com/watch?v=gSjJLkvH6Yo
 
 
