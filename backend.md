@@ -17,6 +17,8 @@ https://www.youtube.com/playlist?list=PLrwNNiB6YOA0KmfliJoSuZzEN6tjSdEXc
 https://www.youtube.com/playlist?list=PLrwNNiB6YOA3Z3JfOUMKE6PmnpmVAJgTK
 
 # Service Discovery
+Why we need it
+https://www.youtube.com/watch?v=GboiMJm6WlA
 
 # Circuit breaker 
 
